@@ -1,6 +1,6 @@
 # Ideal-Sampling
 
-Aim:
+Aim: 
 
 To perform ideal (impulse) sampling of a continuous-time sinusoidal signal, visualize the sampled signal, and reconstruct it using Python.
 
@@ -13,8 +13,6 @@ Python Software -> Numpy Library
 -> Scipy Library (for signal processing)
 
 Program :
-
-#Impulse Sampling
 
 import numpy as np
 
