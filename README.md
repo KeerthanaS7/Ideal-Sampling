@@ -1,20 +1,20 @@
-# Ideal-Sampling
+## Ideal-Sampling
 
-Aim: 
+## Aim: 
 
 To perform ideal (impulse) sampling of a continuous-time sinusoidal signal, visualize the sampled signal, and reconstruct it using Python.
 
-Tools/Software Required:
+## Tools Required:
 
-Python Software -> Numpy Library
+ Python Software -> Numpy Library
 
 -> Matplotlib Library
 
 -> Scipy Library (for signal processing)
 
-Program :
-
-import numpy as np
+## Program :
+~~~
+mpy as np
 
 import matplotlib.pyplot as plt
 
@@ -85,8 +85,9 @@ plt.grid(True)
 plt.legend()
 
 plt.show()
+~~~
 
-Output Waveform :
+## Output Waveform :
 
 ![WhatsApp Image 2025-03-27 at 19 49 09_144a3fdf](https://github.com/user-attachments/assets/8e868896-af98-4911-8d6e-d7339e6c7030)
 
@@ -94,6 +95,6 @@ Output Waveform :
 
 ![WhatsApp Image 2025-03-27 at 19 50 16_12dcf67e](https://github.com/user-attachments/assets/1c8dab17-e32b-4c4b-966a-d70440c9dbb4)
 
-RESULT:
+## RESULT:
 
 The Construction or Re-Construction of impulse or ideal sampling using python are verified
